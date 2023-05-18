@@ -2,4 +2,4 @@
 
 Leveraging Excel to perform Data Cleaning, Preprocessing, Transformation. 
 
-Also creating interactive visualizations which can answer key business questions to inrease sales by targeted marketing campaigns and strategies.
+Also creating interactive visualizations which can answer key business questions to increase sales by targeted marketing campaigns and strategies.
